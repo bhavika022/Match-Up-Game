@@ -1,5 +1,5 @@
 # Match-Up-Game
 
-# Play Game[website]
+# [Play Game]
 
-[website]: https://bhavika022.github.io/Match-Up-Game/
+[Play Game]: https://bhavika022.github.io/Match-Up-Game/
