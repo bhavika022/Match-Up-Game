@@ -1,4 +1,4 @@
-# Match-Up-Game
+# Match-Up-Game 🤔
 
 # [Play Game]
 
@@ -7,5 +7,7 @@
 # Screenshot:
 
 ![Main Page](./img/ss/1.png)
+
+Turn over pairs of matching cards.🀄
 
 ![Game](./img/ss/2.png) 
