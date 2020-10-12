@@ -6,4 +6,6 @@
 
 # Screenshot:
 
-![Main Page] ()
+![Main Page](./img/ss/1.png)
+
+![Game](./img/ss/2.png) 
